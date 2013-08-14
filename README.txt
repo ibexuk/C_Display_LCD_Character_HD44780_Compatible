@@ -1,7 +1,8 @@
 
-##########################################################################################################################
-##### Open sourced by IBEX, an electronic product design company based on South East England.  http://www.ibexuk.com #####
-##########################################################################################################################
+######################################################################
+##### Open sourced by IBEX, an electronic product design company #####
+#####    based in South East England.  http://www.ibexuk.com     #####
+######################################################################
 
 
 Most LCD Character displays are designed to be HD44780 compatible. This generic driver provides control of many different variants of these screens and operates in 4 bit mode to reduce the pins required from the microcontroller.
